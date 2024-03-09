@@ -1,5 +1,5 @@
 # Nbody-Simulation
-![ Alt text]([galaxy collision. gif](https://github.com/Andrewnolan13/Nbody-Simulation/blob/main/output_gif.gif))
+![ Alt text](https://github.com/Andrewnolan13/Nbody-Simulation/blob/main/output_gif.gif)
 
 I'm partial to a bitta physics.
 
