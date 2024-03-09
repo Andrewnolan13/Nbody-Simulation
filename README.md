@@ -1,7 +1,8 @@
 # Nbody-Simulation
 ![ Alt text](https://github.com/Andrewnolan13/Nbody-Simulation/blob/main/output_gif.gif)
 
-# An Nbody simulator made possible thanks to taichi-lang. Option to export animations as mp4 and gif. 
+# An Nbody simulator made possible thanks to taichi-lang.
+### Option to export animations as mp4 and gif. 
 
 Nbody initialises particles in space. If the only arg given is num_planets, then initial conditions are randomized. If partial arguments are given, the complement are randomized.
 The Cluster class can be used to make custom clusters.
